@@ -1,0 +1,6 @@
+{
+    "accesskey": "your_accesskey",
+    "secretkey": "your_secretkey",
+    "bucket": "bucket_name",
+    "cdn": "cdn_base_link"
+}
